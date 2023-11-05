@@ -18,5 +18,5 @@ There's gonna be two .jar files at out/ folder, the `lib.jar` is the jar generat
 - [Dex2jar](https://github.com/pxb1988/dex2jar)
 
 ## Examples
-- [Hello-World](./examples/hello-world)
-- [Calculator](./examples/calculator)
+- [Hello-World](./examples/hello-world/README.md)
+- [Calculator](./examples/calculator/README.md)
